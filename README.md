@@ -21,7 +21,7 @@
 
     <br>
 
-    ```
+    ```json
         {
             "type": "extendscript-debug",
             "request": "launch",
@@ -42,7 +42,7 @@
 
     <br>
 
-    ```
+    ```xml
     <ExtensionManifest Version="[CEP version]" ...>
     ...
 
@@ -63,6 +63,8 @@
 
 > Getting started
 
+- Official getting-started [guide](https://github.com/Adobe-CEP/Getting-Started-guides).
+
 <br>
 
 > Debugging
@@ -73,7 +75,7 @@
 
     <br>
 
-    ```
+    ```xml
         <?xml version="1.0" encoding="UTF-8"?>
         <ExtensionList>
             <Extension Id="TESTID">

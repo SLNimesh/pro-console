@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+    <Extension Id="com.nimesh.proconsole">
+        <HostList>
+            <Host Name="PHXS" Port="8002"/>
+			<Host Name="PHSP" Port="8003"/>
+            <Host Name="PPRO" Port="8004"/>
+        </HostList>
+    </Extension>
+</ExtensionList>
